@@ -1,0 +1,5 @@
+/*Author:Purnanand Wasave*/
+
+SELECT ID, NAME, SALARY 
+FROM EMPLOYEES
+WHERE SALARY > 250000;
